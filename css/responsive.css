@@ -1,0 +1,566 @@
+/*////////////////////////////////////////////////////// Responsive CSS Structure //////////////////////////////////////////////////////*/
+@media (min-width: 1200px) and (max-width: 1920px){
+}
+
+@media (min-width: 1600px) and (max-width: 1699px) {
+/* home page */
+.choose-devs:before { right: 25px; }
+/* home page */
+
+/* developers page */
+.some-developers-carousel .slick-list { padding-right: 0; }
+/* developers page */
+}
+
+@media (min-width: 1500px) and (max-width: 1599px) {
+/* home page */
+.choose-devs:before { right: 25px; }
+/* home page */
+
+/* developers page */
+.some-developers-carousel .slick-list { padding-right: 0; }
+/* developers page */
+}
+
+@media (min-width: 1400px) and (max-width: 1499px) {
+/* home page */
+.choose-devs:before { right: 25px; }
+/* home page */
+
+/* error page */
+.error { padding: 100px 0; }
+/* error page */
+
+/* contact page */
+.contact { padding: 100px 0; }
+.contact .main-row { margin: 0 -40px; }
+.contact .main-col { padding: 0 40px; }
+/* contact page */
+
+/* developers page */
+.compare-skill { padding: 75px 0; }
+.our-dev-companies { padding: 75px 0; }
+.developers-pg .choose-devs { padding: 75px 0; }
+.some-developers { padding: 75px 0; }
+.start-project { padding: 100px 0 75px; }
+.some-developers-carousel .slick-list { padding-right: 0; }
+.how-it-works { padding: 75px 0; }
+/* developers page */
+
+/* about page */
+.about-company { padding: 75px 0; }
+.our-network { padding: 75px 0; }
+.our-values { padding: 75px 0; }
+.our-heroes { padding: 75px 0 0; }
+/* about page */
+}
+
+@media (min-width: 1300px) and (max-width: 1399px) {
+/* home page */
+.how-it-works .how-it-works__content .row { margin: 0 -30px; }
+.how-it-works .how-it-works__content .row > * { padding: 0 30px; }
+.choose-devs .choose-devs__content .row { margin: 0 -30px; }
+.choose-devs .choose-devs__content .row [class^=col-] { padding: 0 30px; }
+.choose-devs:before { right: 25px; }
+.software-devlopers .software-devlopers__fields { margin-bottom: -205px; }
+.customers-say { margin-top: 70px; }
+/* home page */
+
+/* error page */
+.error { padding: 75px 0; }
+/* error page */
+
+/* contact page */
+.contact { padding: 75px 0; }
+.contact .main-row { margin: 0 -30px; }
+.contact .main-col { padding: 0 30px; }
+/* contact page */
+
+/* developers page */
+.compare-skill { padding: 75px 0; }
+.our-dev-companies { padding: 75px 0; }
+.developers-pg .choose-devs { padding: 75px 0; }
+.some-developers { padding: 75px 0; }
+.start-project { padding: 100px 0 75px; }
+.some-developers-carousel .slick-list { padding-right: 225px; }
+.how-it-works { padding: 75px 0; }
+/* developers page */
+
+/* about page */
+.about-company { padding: 75px 0; }
+.our-network { padding: 75px 0; }
+.our-network .our-network__content .row { margin: 0 -25px; }
+.our-network .our-network__content .row > * { padding: 0 25px; }
+.our-network__counter .our-network__block .counter { font-size: 55px; line-height: 75px; }
+.our-values { padding: 75px 0; }
+.our-heroes { padding: 75px 0 0; }
+.our-values .our-values__main-title { padding-bottom: 35px; }
+.our-heroes .our-heroes__main-title { padding-bottom: 35px; }
+/* about page */
+
+/* footer */
+.footer .main__row { margin: 0 -30px; }
+.footer .main__row .main__col { padding: 0 30px; }
+/* footer */
+}
+
+@media (min-width: 1300px) {
+.container { max-width: 1220px; }
+}
+
+@media (min-width: 1200px) and (max-width: 1299px) {
+/* home page */
+.software-devlopers { margin-bottom: 175px; }
+.software-devlopers .software-devlopers__content { padding: 100px 100px 192px; }
+.software-devlopers .software-devlopers__list { padding: 0 100px; }
+/* .tech-work { padding: 175px 0 40px; } */
+.how-it-works .how-it-works__content .row { margin: 0 -30px; }
+.how-it-works .how-it-works__content .row > * { padding: 0 30px; }
+.how-it-works .how-it-works__title { padding-bottom: 70px; }
+.choose-devs .choose-devs__content .row { margin: 0 -30px; }
+.choose-devs .choose-devs__content .row [class^=col-] { padding: 0 30px; }
+.our-dev-companies { padding: 70px 0 100px; }
+.choose-devs:before { right: 25px; }
+.software-devlopers .software-devlopers__fields { margin-bottom: -205px; }
+.customers-say { margin-top: 70px; }
+/* home page */
+
+/* error page */
+.error { padding: 75px 0; }
+/* error page */
+
+/* developers page */
+.compare-skill { padding: 75px 0; }
+.our-dev-companies { padding: 75px 0; }
+.developers-pg .choose-devs { padding: 75px 0; }
+.some-developers { padding: 75px 0; }
+.start-project { padding: 100px 0 75px; }
+.some-developers-carousel .slick-list { padding-right: 175px; }
+.how-it-works { padding: 75px 0; }
+/* developers page */
+
+/* contact page */
+.contact { padding: 75px 0; }
+.contact .main-row { margin: 0 -30px; }
+.contact .main-col { padding: 0 30px; }
+/* contact page */
+
+/* about page */
+.about-company { padding: 50px 0; }
+.our-network { padding: 50px 0; }
+.our-network .our-network__content .row { margin: 0 -25px; }
+.our-network .our-network__content .row > * { padding: 0 25px; }
+.our-network__counter .our-network__block .counter { font-size: 55px; line-height: 75px; }
+.our-values { padding: 50px 0; }
+.our-heroes { padding: 50px 0 0; }
+.our-values .our-values__main-title { padding-bottom: 35px; }
+.our-heroes .our-heroes__main-title { padding-bottom: 35px; }
+/* about page */
+
+/* footer */
+.footer .main__row { margin: 0 -30px; }
+.footer .main__row .main__col { padding: 0 30px; }
+/* footer */
+}
+
+@media (min-width: 992px) and (max-width: 1199px){
+.main-title { font-size: 65px; line-height: 75px; }
+
+/* home page */
+.software-devlopers { margin-bottom: 150px; }
+.software-devlopers .software-devlopers__content { padding: 70px 70px 192px; }
+.software-devlopers .software-devlopers__list { padding: 0 70px; }
+/* .tech-work { padding: 150px 0 40px; } */
+.how-it-works .how-it-works__content .row { margin: 0 -15px; }
+.how-it-works .how-it-works__content .row > * { padding: 0 15px; }
+.how-it-works .how-it-works__title { padding-bottom: 50px; }
+.how-it-works .how-it-works__block { padding-top: 35px; }
+.how-it-works .how-it-works__block .step-num { width: 85px; height: 85px; }
+.how-it-works .how-it-works__block:before { left: 42px; height: 35px; font-size: 40px; line-height: 45px; }
+.choose-devs .choose-devs__content .row { margin: 0 -15px; }
+.choose-devs .choose-devs__content .row [class^=col-] { padding: 0 15px; }
+.our-dev-companies { padding: 70px 0; }
+.customers-say { padding: 100px 0 50px; margin-top: 50px; }
+.customers-say .customers-say__title { padding: 0 70px; }
+.customers-say .detail { padding: 50px 70px; }
+.customers-say .customer-name { padding: 0 70px; }
+.choose-devs { padding: 100px 0; }
+.choose-devs:before { right: 15px; }
+.software-devlopers .software-devlopers__fields { margin-bottom: -235px; }
+/* home page */
+
+/* error page */
+.error { padding: 50px 0; }
+/* error page */
+
+/* contact page */
+.contact { padding: 50px 0; }
+.contact .main-row { margin: 0 -20px; }
+.contact .main-col { padding: 0 20px; }
+/* contact page */
+
+/* developers page */
+.compare-skill { padding: 50px 0; }
+.our-dev-companies { padding: 50px 0; }
+.developers-pg .choose-devs { padding: 50px 0; }
+.some-developers { padding: 50px 0; }
+.start-project { padding: 70px 0 50px; }
+.some-developers__slider .container-fluid { margin-left: auto; margin-right: auto; }
+.some-developers-carousel .slick-list { padding-right: 250px; }
+.how-it-works { padding: 50px 0; }
+/* developers page */
+
+/* about page */
+.about-company { padding: 50px 0; }
+.our-network { padding: 50px 0; }
+.our-values .our-values__content { padding: 50px; }
+.our-values .our-values__content ul li { font-size: 40px; line-height: 50px; }
+.our-values .our-values__main-title { padding-bottom: 35px; }
+.our-network .our-network__content .row { margin: 0 -20px; }
+.our-network .our-network__content .row > * { padding: 0 20px; }
+.our-network__counter .our-network__block { margin-top: 20px; }
+.our-network__counter .our-network__block .counter { font-size: 45px; line-height: 60px; }
+.our-values { padding: 50px 0; }
+.our-heroes { padding: 50px 0 0; }
+.our-heroes .our-heroes__list .row { margin: 0 -50px; }
+.our-heroes .our-heroes__list .row > * { padding: 0 50px; }
+.our-heroes .our-heroes__main-title { padding-bottom: 35px; }
+/* about page */
+
+/* footer */
+/* .footer { padding: 50px 0; } */
+.footer { padding: 50px 0 15px; }
+.footer__logo { margin-bottom: 35px; }
+.footer .main__row { margin: 0 -15px; }
+.footer .main__row .main__col { padding: 0 15px; }
+/* footer */
+}
+
+@media (max-width: 991px) {
+}
+
+@media (min-width: 768px) and (max-width: 991px){
+.main-title { font-size: 50px; line-height: 65px; }
+h1 { font-size: 42px; line-height: 50px; }
+p,
+ul li,
+ol li { font-size: 18px; line-height: 25px; }
+
+/* header */
+.navbar-brand { margin-right: 30px; }
+.navbar-nav .nav-item { margin: 0 10px; }
+.header .header__right a { padding: 12px 20px; }
+/* header */
+
+/* home page */
+/* .software-devlopers { margin-bottom: 150px; } */
+.software-devlopers { margin-bottom: 100px; }
+/* .software-devlopers .software-devlopers__content { padding: 70px 50px 175px; } */
+.software-devlopers .software-devlopers__content { padding: 70px 50px; }
+.software-devlopers .software-devlopers__list { padding: 0 50px; }
+.software-devlopers .software-devlopers__block .image { height: 200px; }
+/* .software-devlopers .software-devlopers__fields { margin-bottom: -325px; } */
+.tech-work .tech-work__main--detail { padding-bottom: 35px; }
+.tech-work { padding: 40px 0; }
+.how-it-works .how-it-works__content .row { margin: 0 -15px; }
+.how-it-works .how-it-works__content .row > * { padding: 0 15px; }
+.how-it-works .how-it-works__title { padding-bottom: 35px; }
+.how-it-works .how-it-works__block { padding-top: 35px; }
+.how-it-works .how-it-works__block .step-num { width: 75px; height: 75px; }
+.how-it-works .how-it-works__block:before { left: 37px; height: 35px; font-size: 35px; line-height: 40px; }
+.choose-devs .choose-devs__content .row { margin: 0 -15px; }
+.choose-devs .choose-devs__content .row [class^=col-] { padding: 0 15px; }
+.our-dev-companies { padding: 50px 0; }
+.customers-say { padding: 70px 0 50px; margin-top: 30px; }
+.customers-say-carousel { padding-bottom: 30px; }
+.choose-devs .choose-devs__title { margin-bottom: 50px; }
+.choose-devs__block { padding-left: 20px; }
+.customers-say .customers-say__title { padding: 0 70px; }
+.customers-say .detail { padding: 50px 70px; }
+.customers-say .customer-name { padding: 0 70px; }
+.choose-devs { padding: 70px 0; }
+.tech-work .tech-work__block { flex: 0 0 33.33%; max-width: 33.33%; }
+.our-dev-companies .our-dev-companies__block { flex: 0 0 33.33%; max-width: 33.33%; }
+.software-devlopers .software-devlopers__fields { position: relative; left: auto; right: auto; bottom: auto; }
+.choose-devs:before { right: 15px; width: 200px; height: 300px; }
+/* home page */
+
+/* error page */
+.error { padding: 50px 0; }
+.error .error__image { margin-bottom: 30px; }
+/* error page */
+
+/* contact page */
+.contact { padding: 50px 0; }
+.contact .main-row { margin: 0 -20px; }
+.contact .main-col { padding: 0 20px; }
+.contact .contact__image { margin-bottom: 30px; }
+/* contact page */
+
+/* developers page */
+.compare-skill { padding: 50px 0; }
+.our-dev-companies { padding: 50px 0; }
+.developers-pg .choose-devs { padding: 50px 0; }
+.some-developers { padding: 50px 0; }
+.start-project { padding: 50px 0; }
+.some-developers__slider .container-fluid { margin-left: auto; margin-right: auto; }
+.some-developers-carousel .slick-list { padding-right: 125px; }
+.how-it-works { padding: 50px 0; }
+/* developers page */
+
+/* about page */
+.about-company { padding: 35px 0; }
+.our-network { padding: 35px 0; }
+.our-network .our-network__image { margin-top: 50px; }
+.our-values .our-values__content { padding: 35px; }
+.our-values .our-values__content ul li { font-size: 35px; line-height: 45px; }
+.our-values .our-values__main-title { padding-bottom: 35px; }
+.our-network .our-network__content .row { margin: 0 -20px; }
+.our-network .our-network__content .row > * { padding: 0 20px; }
+.our-network__counter .our-network__block { margin-top: 20px; }
+.our-network__counter .our-network__block .counter { font-size: 40px; line-height: 50px; }
+.our-values { padding: 35px 0; }
+.our-heroes { padding: 35px 0 0; }
+.our-heroes .our-heroes__list .row { margin: 0 -20px; }
+.our-heroes .our-heroes__list .row > * { padding: 0 20px; }
+/* about page */
+
+/* footer */
+/* .footer { padding: 50px 0; } */
+.footer { padding: 50px 0 15px; }
+.footer__logo { margin-bottom: 35px; }
+.footer .main__row { margin: 0 -15px; }
+.footer .main__row .main__col { padding: 0 15px; }
+.footer__block .footer__detail ul li { margin-bottom: 12px; }
+.footer .social__icons--list ul li { margin: 0 5px; }
+/* footer */
+}
+
+@media (max-width: 767px) {
+h1, h2, h3, h4, h5, h6 { margin-bottom: 15px; }
+.main-title { font-size: 40px; line-height: 50px; }
+h1 { font-size: 35px; line-height: 40px; }
+h2 { font-size: 30px; line-height: 35px; }
+p,
+ul li,
+ol li { font-size: 18px; line-height: 28px; }
+
+/* header */
+.header__content { flex-direction: column; align-items: flex-start; }
+.header__content .header__left { width: 100%; }
+.navbar-nav { padding-top: 20px; }
+.navbar-nav .nav-item { margin: 15px 30px !important;}
+/* .navbar-nav .nav-item .nav-link { padding: 15px 0; } */
+.navbar-nav .nav-item .nav-link { padding: 0; }
+.navbar-nav .nav-item:last-child { /*margin-top: 15px !important;*/ }
+.navbar-nav .nav-item:last-child a { padding: 12px 25px; }
+/* header */
+
+/* home page */
+.software-devlopers { padding: 0; }
+.software-devlopers .software-devlopers__content .curve-shape { display: none; }
+.software-devlopers .software-devlopers__content:before,
+.software-devlopers .software-devlopers__content:after { display: none; }
+.software-devlopers { margin-bottom: 150px; }
+.software-devlopers .software-devlopers__content { padding: 50px 30px 70px; }
+.software-devlopers .software-devlopers__list { padding: 0 40px; }
+.software-devlopers .software-devlopers__fields { position: relative; left: auto; right: auto; bottom: auto; }
+.software-devlopers .software-devlopers__block .image { height: 200px; }
+/* .software-devlopers .software-devlopers__fields { margin-bottom: -325px; } */
+.tech-work .tech-work__main--detail { padding-bottom: 35px; }
+.tech-work { padding: 100px 0 40px; }
+.how-it-works .how-it-works__content .row { margin: 0 -12px; }
+.how-it-works .how-it-works__content .row > * { padding: 0 12px; }
+.how-it-works .how-it-works__title { padding-bottom: 35px; }
+.how-it-works .how-it-works__block { padding-top: 35px; }
+.how-it-works .how-it-works__block .step-num { width: 75px; height: 75px; }
+.how-it-works .how-it-works__block:before { left: 37px; height: 35px; font-size: 35px; line-height: 40px; }
+.choose-devs .choose-devs__content .row { margin: 0 -12px; }
+.choose-devs .choose-devs__content .row [class^=col-] { padding: 0 12px; }
+.our-dev-companies { padding: 50px 0; }
+.customers-say { padding: 70px 0 50px; margin-top: 30px; }
+.customers-say-carousel { padding-bottom: 30px; }
+.choose-devs .choose-devs__title { margin-bottom: 50px; }
+.choose-devs__block { padding-left: 20px; }
+.customers-say:before { display: none; }
+.customers-say .customers-say__title { padding: 0 70px; }
+.customers-say .detail { padding: 50px 70px; }
+.customers-say .customer-name { padding: 0 70px; }
+.choose-devs { padding: 70px 0; }
+.tech-work .tech-work__block { flex: 0 0 33.33%; max-width: 33.33%; }
+.our-dev-companies .our-dev-companies__block { flex: 0 0 33.33%; max-width: 33.33%; }
+.how-it-works .how-it-works__detail { margin-top: 35px; }
+.software-devlopers .software-devlopers__list .row > * { margin: 0; }
+.software-devlopers .software-devlopers__block { margin-bottom: 125px; }
+.software-devlopers .software-devlopers__list .row > *:last-child .software-devlopers__block { margin: 0; }
+.choose-devs:before { display: none; }
+.choose-devs .choose-devs__image { margin-top: 82px; }
+/* home page */
+
+/* error page */
+.error { padding: 45px 0; }
+.error .error__image { margin-bottom: 30px; }
+/* error page */
+
+/* contact page */
+.contact { padding: 50px 0; }
+.contact .main-row { margin: 0 -15px; }
+.contact .main-col { padding: 0 15px; }
+.contact .contact__image { margin-bottom: 30px; }
+/* contact page */
+
+/* developers page */
+.compare-skill { padding: 50px 0 30px; overflow: hidden; }
+.compare-skill .compare-skill__images { margin-top: 75px; }
+.our-dev-companies { padding: 50px 0; }
+.developers-pg .choose-devs { padding: 50px 0; }
+.some-developers { padding: 50px 0; }
+.start-project { padding: 64px 0; }
+.some-developers__slider .container-fluid { margin-left: auto; margin-right: auto; }
+.some-developers-carousel .slick-list { padding-right: 125px; }
+.developers-pg .choose-devs__image { margin: 0 0 50px; }
+.some-developers-carousel .slick-list { margin: 0 -12px; }
+.some-developers-carousel .slick-slide { padding: 75px 12px 0; }
+.custom-slick-arrows .slick-arrow { width: 48px; height: 48px; font-size: 20px; line-height: 20px; margin: 0 8px; }
+.start-project .start-project__content { padding: 42px 24px; }
+.how-it-works { padding: 50px 0; }
+/* developers page */
+
+/* about page */
+.about-company { padding: 35px 0; }
+.our-network { padding: 35px 0; }
+.our-network .our-network__image { margin-top: 50px; }
+.our-values .our-values__content { padding: 35px; }
+.our-values .our-values__content ul li { font-size: 25px; line-height: 30px; padding-left: 15px; }
+.our-values .our-values__main-title { padding-bottom: 35px; }
+.our-network .our-network__content .row { margin: 0 -15px; }
+.our-network .our-network__content .row > * { padding: 0 15px; }
+.our-network__counter .our-network__block { margin-top: 20px; }
+.our-network__counter .our-network__block .counter { font-size: 30px; line-height: 50px; }
+.our-values { padding: 35px 0; }
+.our-heroes { padding: 35px 0 0; }
+.our-heroes .our-heroes__main-title { padding-bottom: 30px; }
+.our-heroes .our-heroes__list .row { margin: 0 -15px; }
+.our-heroes .our-heroes__list .row > * { padding: 0 15px; }
+/* about page */
+
+/* footer */
+/* .footer { padding: 50px 0; } */
+.footer { padding: 50px 0 15px; }
+.footer__logo { margin-bottom: 35px; }
+.footer .main__row { margin: 0 -12px; }
+.footer .main__row .main__col { padding: 0 12px; }
+.footer__block .footer__detail ul li { margin-bottom: 12px; }
+.footer .social__icons--list ul li { margin: 0 5px; }
+.footer__bottom .social__icons--list ul li { font-size: 20px; }
+/* footer */
+}
+
+/*---------- Small Mobile , IPhone Start ----------*/
+
+/*=== Screen Size = 240, 320, 360, 480, 568 ===*/
+@media (min-width: 576px) and (max-width: 767px){
+}
+
+@media (min-width: 240px) and (max-width: 575px){
+.main-title { font-size: 36px; line-height: 44px; }
+h1 { font-size: 33px; line-height: 38px; }
+h2 { font-size: 28px; line-height: 30px; }
+.btn-big { padding: 12px 25px; }
+
+/* home page */
+.software-devlopers .container { padding: 0; }
+.software-devlopers .software-devlopers__content { padding: 50px 15px 70px; border-radius: 0; -webkit-border-radius: 0; -moz-border-radius: 0; -ms-border-radius: 0; -o-border-radius: 0; }
+/* .tech-work .tech-work__block { flex: 0 0 100%; max-width: 100%; } */
+.tech-work .tech-work__block .icon { margin: 0; }
+.tech-work .tech-work__block p { display: none; }
+.tech-work { padding-bottom: 0; }
+.how-it-works .how-it-works__content:before,
+.how-it-works .how-it-works__content:after { display: none; }
+.how-it-works .how-it-works__title { padding-bottom: 25px; }
+.how-it-works .how-it-works__title h2 { font-size: 16px; line-height: 24px; color: #667085; }
+.how-it-works .how-it-works__block { flex-direction: column; text-align: center; }
+.how-it-works .how-it-works__block:before { display: none; }
+.how-it-works .how-it-works__block .step-num { width: 40px; height: 40px; font-size: 24px; line-height: 29px; margin: 0 0 20px; border-radius: 8px; -webkit-border-radius: 8px; -moz-border-radius: 8px; -ms-border-radius: 8px; -o-border-radius: 8px; }
+.our-dev-companies .our-dev-companies__block { flex: 0 0 50%; max-width: 50%; }
+.customers-say .customers-say__title { padding: 0; text-align: center; }
+.customers-say .customers-say__title h2 { font-size: 16px; line-height: 24px; color: #848588; font-weight: 500; }
+/* .customers-say .detail p { font-size: 30px; line-height: 38px; } */
+.customers-say .customer-name h3 { font-size: 18px; line-height: 28px; }
+.customers-say .customer-name h3 span { font-size: 16px; line-height: 24px; }
+.customers-say .customers-say__block { text-align: center; }
+.customers-say .detail:before,
+.customers-say .detail:after { display: none; }
+.customers-say .detail { padding: 30px 0; }
+.customers-say .customer-name { padding: 0; }
+.customers-say-carousel { padding: 0; }
+.customers-say .customers-say__block { padding-bottom: 40px; }
+.choose-devs .choose-devs__image { margin-top: 50px; }
+.how-it-works .how-it-works__block .detail p { font-weight: 500; }
+.our-dev-companies { padding: 50px 0 35px; }
+.software-devlopers { margin-bottom: 120px; }
+.software-devlopers .software-devlopers__email__signup .email-signup { flex-direction: column; }
+.software-devlopers .software-devlopers__email__signup .email-signup .btn { flex: 1 0 0; margin: 10px 0 0; width: 100%; }
+.software-devlopers .software-devlopers__main__detail p { text-align: left; }
+/* home page */
+
+/* error page */
+.error .error__image { margin-bottom: 15px; text-align: left; }
+.error .error__image img { width: 100px; }
+.error .error__back__button { display: flex; flex-direction: column-reverse; }
+.error .error__back__button .btn { margin: 5px 0; width: 100%; }
+/* error page */
+
+/* contact page */
+.contact .contact__image { margin-bottom: 30px; }
+/* contact page */
+
+/* developers page */
+.some-developers-carousel .slick-list { padding-right: 50px; }
+/* developers page */
+
+/* about page */
+.our-values .our-values__description { background-color: #e0fff6; border-radius: 16px; -webkit-border-radius: 16px; -moz-border-radius: 16px; -ms-border-radius: 16px; -o-border-radius: 16px; padding: 40px 15px; }
+.our-values .our-values__content { padding: 0; }
+.our-values .our-values__content ul { flex-direction: column; align-items: flex-start; justify-content: flex-start; }
+.our-values .our-values__content ul li { display: flex; width: 100%; border: none; border-top: 2px solid #667085; padding: 20px 0; font-size: 35px; line-height: 40px; }
+.our-values .our-values__content ul li:last-child { padding-bottom: 0; }
+.our-heroes-carousel .slick-list { padding-right: 50px; margin: 0 -12px; }
+.our-heroes-carousel .slick-slide { padding: 0 12px; }
+/* about page */ 
+
+/* footer */
+/* .footer { padding: 50px 0 0; } */
+.footer .footer__left .footer__detail p { line-height: 25px; }
+.footer__logo { margin-bottom: 30px; }
+.footer .footer__left .footer__detail { margin-bottom: 30px; }
+/* footer */
+}
+
+@media (max-width: 374px){
+/* home page */
+.customers-say { padding: 35px 0; }
+.customers-say .customers-say__block { padding-bottom: 20px; }
+.customers-say .detail { padding: 10px 0 30px; }
+.customers-say .detail p { font-size: 18px; line-height: 28px; }
+.choose-devs { padding: 35px 0; }
+.choose-devs .choose-devs__title { margin-bottom: 30px; }
+.choose-devs .choose-devs__image { margin-top: 30px; }
+.software-devlopers .software-devlopers__list { padding: 0 15px; }
+.choose-devs .choose-devs__image { margin-top: 30px; }
+/* home page */
+
+/* developers page */
+.developers-pg .choose-devs__image { margin-bottom: 30px; }
+.developers-pg .choose-devs { padding: 30px 0; }
+.start-project { padding: 30px 0 50px; }
+.start-project .start-project__content:before { bottom: -20px; }
+.custom-slick-arrows .slick-arrow { width: 40px; height: 40px; font-size: 18px; line-height: 18px; margin: 0 4px; }
+/* developers page */
+
+/* about page */
+.our-heroes__block .image { height: 235px; }
+.our-values .our-values__content ul li { font-size: 24px; line-height: 35px; padding: 15px 0; }
+/* about page */
+}
+/*---------- Large Desktop , Large Screen End ----------*/
