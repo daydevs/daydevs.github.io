@@ -1141,13 +1141,28 @@ h6 {
 }
 
 .our-dev-companies .our-dev-companies__block {
-	flex: 0 0 16.66666666666667%;
-	max-width: 16.66666666666667%;
+	flex: 0 0 25%;
+	max-width: 20%;
 	width: 100%;
-	text-align: center;
-	padding: 0 25px;
+	text-align: left;
+	padding: 0 30px;
 	margin-bottom: 17px;
 }
+
+.our-dev-companies .our-dev-companies__block svg {
+	height: 70px;
+	fill: #9DA8C6;
+	margin-top: 5px;
+	max-width: 100%;
+}
+
+#amex-logo {
+	height: 90px;
+	margin-left: 70px;
+	margin-top: 0px;
+}
+
+
 /* our-dev-companies */
 
 /* customers-say */
