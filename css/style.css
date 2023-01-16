@@ -2018,3 +2018,99 @@ h6 {
 /*==================================================================*/
 /*========== Footer End ==========*/
 /*==================================================================*/
+
+
+
+/* ***** Service Page ***** */
+.services-wrapper{
+	position: relative;
+	width: 100%;
+}
+.services-row{
+	margin: 0 0 95px;
+	position: relative;
+	overflow: hidden;
+}
+.services-row:last-child{
+	margin: 0;
+}
+.services-row:after{
+	position: absolute;
+	content: '';
+	width: 50%;
+	height: 100%;
+	background-color: #EDEDED;
+	right:-30%;
+	top: 0;
+}
+.services-row .row{
+	align-items: center;
+}
+.services-data{
+	padding: 0 35px 0 0;
+}
+.services-data img{
+	margin: 0 0 25px;
+}
+.services-data h3{
+	font-size: 30px;
+	font-weight: 600;
+	color: #161719;
+	margin: 0 0 20px;
+}
+.services-data p{
+	font-size: 18px;
+	font-weight: normal;
+	color: #848588;
+	line-height: 28px;
+	margin: 0 0 35px;
+}
+.services-data ul {
+	text-decoration: none;
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+}
+.services-data ul li{
+	position: relative;
+	font-size: 18px;
+	font-weight: normal;
+	color: #848588;
+	margin: 0 0 20px;
+	padding: 0 0 0 35px;
+}
+.services-data ul li:last-child{
+	margin: 0;
+}
+.services-data ul li:before{
+	position: absolute;
+	content: '';
+	width: 28px;
+	height: 28px;
+	background: url('../images/bullet-ic.svg') 0 0 no-repeat;
+	background-size: 100% 100%;
+	top: 0;
+	left: 0;
+}
+.service-img img{
+	width: 100%;
+	border-radius: 24px 0 0 24px;
+	position: relative;
+	z-index: 1;
+}
+.services-row:nth-child(even) .services-data{
+	padding: 0 0 0 35px;
+}
+.services-row:nth-child(even) .service-img img{
+	border-radius: 0 24px 24px 0;
+}
+.services-row:nth-child(even):after{
+	position: absolute;
+	content: '';
+	width: 50%;
+	height: 100%;
+	background-color: #EDEDED;
+	left: -30%;
+	top: 0;
+}
+/* ***** End Service Page ***** */

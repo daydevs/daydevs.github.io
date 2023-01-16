@@ -234,6 +234,16 @@
 .footer .main__row { margin: 0 -15px; }
 .footer .main__row .main__col { padding: 0 15px; }
 /* footer */
+
+/* Service Page */
+.services-row{margin: 0 0 45px;}
+.services-data{padding: 0 0 0;}
+.services-data img{margin: 0 0 15px;}
+.services-data h3{font-size: 24px;margin: 0 0 15px;line-height: 28px;}
+.services-data p{font-size: 16px;line-height: 24px;margin: 0 0 15px;}
+.services-data ul li{font-size: 16px;margin: 0 0 10px;}
+.services-row:nth-child(even) .services-data{padding: 0 0 0;}
+/* End Service Page */
 }
 
 @media (max-width: 991px) {
@@ -334,6 +344,18 @@ ol li { font-size: 18px; line-height: 25px; }
 .footer__block .footer__detail ul li { margin-bottom: 12px; }
 .footer .social__icons--list ul li { margin: 0 5px; }
 /* footer */
+
+/* Service Page */
+.services-row{margin: 0 0 45px;}
+.services-row:after{display: none;}
+.services-data{padding: 0 0 0;}
+.services-data img{margin: 0 0 15px;}
+.services-data h3{font-size: 24px;margin: 0 0 15px;line-height: 28px;}
+.services-data p{font-size: 16px;line-height: 24px;margin: 0 0 15px;}
+.services-data ul li{font-size: 16px;margin: 0 0 10px;}
+.services-row:nth-child(even) .service-img img,.service-img img{border-radius: 0;}
+.services-row:nth-child(even) .services-data{padding: 0 0 0;}
+/* End Service Page */
 }
 
 @media (max-width: 767px) {
@@ -454,6 +476,19 @@ ol li { font-size: 18px; line-height: 28px; }
 .footer .social__icons--list ul li { margin: 0 5px; }
 .footer__bottom .social__icons--list ul li { font-size: 20px; }
 /* footer */
+
+/* Service Page */
+.services-row{margin: 0 0 45px;}
+.services-row:after{display: none;}
+.services-row .container{padding: 0;}
+.services-data{padding: 0 15px 45px;}
+.services-data h3{font-size: 24px;margin: 0 0 15px;line-height: 28px;}
+.services-data p{font-size: 16px;line-height: 24px;}
+.services-data ul li{font-size: 16px;}
+.services-row:nth-child(even) .service-img img,.service-img img{border-radius: 0;}
+.services-row:nth-child(even) .row{flex-flow: column-reverse;}
+.services-row:nth-child(even) .services-data{padding: 0 15px 45px;}
+/* End Service Page */
 }
 
 /*---------- Small Mobile , IPhone Start ----------*/
