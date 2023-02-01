@@ -48,7 +48,7 @@
 /* developers page */
 
 /* about page */
-.about-company { padding: 75px 0; }
+.about-company { padding: 75px 0 0; }
 .our-network { padding: 75px 0; }
 .our-values { padding: 75px 0; }
 .our-heroes { padding: 75px 0 0; }
@@ -87,7 +87,7 @@
 /* developers page */
 
 /* about page */
-.about-company { padding: 75px 0; }
+.about-company { padding: 75px 0 0; }
 .our-network { padding: 75px 0; }
 .our-network .our-network__content .row { margin: 0 -25px; }
 .our-network .our-network__content .row > * { padding: 0 25px; }
@@ -146,7 +146,7 @@
 /* contact page */
 
 /* about page */
-.about-company { padding: 50px 0; }
+.about-company { padding: 50px 0 0; }
 .our-network { padding: 50px 0; }
 .our-network .our-network__content .row { margin: 0 -25px; }
 .our-network .our-network__content .row > * { padding: 0 25px; }
@@ -211,7 +211,7 @@
 /* developers page */
 
 /* about page */
-.about-company { padding: 50px 0; }
+.about-company { padding: 50px 0 0; }
 .our-network { padding: 50px 0; }
 .our-values .our-values__content { padding: 50px; }
 .our-values .our-values__content ul li { font-size: 40px; line-height: 50px; }
